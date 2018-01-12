@@ -1,4 +1,4 @@
-// https://github.com/sengelha/d3-latency-heatmap Version 1.2.2. Copyright 2018 Steven Engelhardt <sengelha@gmail.com>.
+// https://github.com/sengelha/d3-latency-heatmap Version 1.2.3. Copyright 2018 Steven Engelhardt <sengelha@gmail.com>.
 (function (global, factory) {
 	typeof exports === 'object' && typeof module !== 'undefined' ? factory(exports, require('d3-array'), require('d3-axis'), require('d3-collection'), require('d3-color'), require('d3-interpolate'), require('d3-scale')) :
 	typeof define === 'function' && define.amd ? define(['exports', 'd3-array', 'd3-axis', 'd3-collection', 'd3-color', 'd3-interpolate', 'd3-scale'], factory) :
